@@ -2,8 +2,6 @@
 
 **sign-language-gesture-recognition-from-video-sequences**
 
-# Sign-Language-Recognition
-
 ## Description
 Welcome to the Sign Language Gesture Recognition project! This project focuses on recognizing sign language gestures from video sequences using a combination of RNN and CNN models.
 
