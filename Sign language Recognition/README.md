@@ -1,8 +1,6 @@
 # sign-language-gesture-recognition-from-video-sequences
 SIGN LANGUAGE GESTURE RECOGNITION FROM VIDEO SEQUENCES  USING RNN AND CNN
 
-The Paper on this work is published [here](https://link.springer.com/chapter/10.1007/978-981-10-7566-7_63) 
-
 Please do cite it if you find this project useful. :)
 
 **UPDATE:**
